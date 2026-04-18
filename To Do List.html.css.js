@@ -1,5 +1,3 @@
-# To-do-list-
-Project 
 <!DOCTYPE html>
 <html lang="en">
 <head>
